@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Save Water</string>
+    <string name="title">The importance of water</string>
+    <string name="importance_of_water">Water is one of the most important substances on earth. All plants and animals must have water to survive. If there was no water there would be no life on earth. Apart from drinking it to survive, people have many other uses for water.</string>
+    <string name="other_water_uses">Other uses of water</string>
+    <string name="critical_save_water">Why is it critical to save water?</string>
+    <string name="save_water_tips">Tips for saving water</string>
+    <string name="title1">1, Cooking</string>
+    <string name="title2">2, Washing their bodies</string>
+    <string name="title3">3, Washing clothes</string>
+    <string name="title4">4, Washing cooking and eating utensils; such as billies, saucepans, crockery and cutlery</string>
+    <string name="title5">5, Keeping houses and communities clean</string>
+    <string name="title6">6, Recreation; such as swimming pools</string>
+    <string name="title7">7, Keeping plants alive in gardens and parks</string>
+    <string name="title_critical">Critical To Save Water</string>
+    <string name="critical_body">We\'ve all grown up taking water for granted. Turned on the tap and there\'s water. Flushed the toilet and there\'s water. Take a bath. Put on the dishwasher.\n\nWe all use water without really thinking about it, but now we need to change our ways! We\'re at the tipping point of needing to take a more active role in reducing the amount of water we use; otherwise we will ultimately suffer higher water bills.\n\nIt\'s only a matter of time before water conservation goes the same way as recycling of household waste. Both are issues: recycling came about because we need to conserve the world\'s natural resources and reduce waste. In the same way, changes in weather patterns and the effects of global warming have had such a dramatic effect on the countries water supply that scarcity and cost are becoming increasingly important issues for all of us.\n\nWater conservation means using our water wisely and caring for it properly. Since each of us depends on water for life, it is our responsibility to learn more about water conservation and how we can help keep our water pure and safe for generations to come.\n\nOur water supply is finite, which means that we do not have an endless supply. We only have the water that we have now. Ninety - seven percent of all the water on the earth is salt water which is not suitable for drinking. Only three percent of all the water is fresh water, and only one percent is available for drinking water. The other two percent is locked in ice caps and glaciers.\n\nWe must learn to save water now for the future. The quality of our water is very important. We have the same amount of water now as there was when the earth was created.\n\nThis is the water we have, and we must preserve its quality. Water is the foundation of food and life. Next to air, water is our most precious resource. Saving water helps to preserve our environment. It reduces the energy required to process and deliver water, which helps in reducing pollution and in conserving fuel resources.\n\nSaving water now means having water available in the future for recreational purposes, too. Conserving the water we have minimizes the effects of water shortages and helps build a better defence against future drought years. If we save water now, we are helping to ensure a water supply adequate for future generations. Saving water saves money.</string>
+    <string name="tips_title">Tips Category</string>
+    <string name="kitcken_tips">Kitchen</string>
+    <string name="bathroom_tips">Bath / Laundry</string>
+    <string name="out_doors">Out Doors</string>
+    <string name="work">Work</string>
+
+    <string name="water_house_plant">1. Collect the water you use while rinsing fruit and vegetables. Use it to water house plants.</string>
+    <string name="fridge">2. Don\'t use running water to thaw food. Defrost food in the refrigerator.\n\nKeep a pitcher of drinking water in the refrigerator instead of running the tap.</string>
+    <string name="freezer">3. If you accidentally drop ice cubes, don\'t throw them in the sink. Drop them in a house plant instead.</string>
+    <string name="disposal">4. Use the garbage disposal sparingly. Instead, compost vegetable food waste and save gallons every time.</string>
+    <string name="sink">5. Install aerators on the kitchen faucet to reduce flows to less than 1 gallon per minute.</string>
+    <string name="cooking">6. Select the proper pan size for cooking. Large pans may require more cooking water than necessary.</string>
+    <string name="pots">7. Soak pots and pans instead of letting the water run while you scrape them clean.</string>
+    <string name="oven">8. Cook food in as little water as possible. This also helps it retain more nutrients.</string>
+    <string name="dishes">9. When washing dishes by hand, don\'t let the water run. Fill one basin with wash water and the other with rinse water.</string>
+    <string name="fruits">10. Wash your fruits and vegetables in a pan of water instead of running water from the tap.</string>
+    <string name="dishwasher">11. Dishwashers typically use less water than washing dishes by hand.\n\nIf your dishwasher is new, cut back on rinsing. Newer models clean more thoroughly than older ones.</string>
+
+    <string name="bl_shaving">1. Plug the sink instead of running the water to rinse your razor.\n\nSave: Up to 300 gallons a month.</string>
+    <string name="bl_toothbrush">2. Turn water off when brushing teeth or shaving.\n\nSave: Approximately 10 Gallons/Day</string>
+    <string name="bl_washing_hands">3. When washing your hands, turn the water off while you lather.</string>
+    <string name="bl_urinal">4. Be sure to test your toilet for leaks at least once a year.\n\nPut food coloring in your toilet tank. If it seeps into the bowl without flushing, there’s a leak. Fix it and start saving gallons.</string>
+    <string name="bl_trash">5. Don\'t use the toilet as a wastebasket.</string>
+    <string name="bl_shower">6. Install low-flow showerheads.\n\nSave: 2.5 Gallons</string>
+    <string name="bl_curtain">7. ake five-minute showers instead of 10 minute showers.\n\nSave: 12.5 gallons with a low flow showerhead, 25 gallons with a standard 5.0 gallon per minute showerhead.\n\nTurn off the water while washing your hair.\n\nSave: Up to 150 gallons a month</string>
+    <string name="bl_tub">8. Fill the bathtub halfway or less.\nSave: 12 Gallons\n\nWhen running a bath, plug the bathtub before turning on the water. Adjust the temperature as the tub fills.\n\nTake a (short) shower instead of a bath. A bathtub can use up to 70 gallons of water.</string>
+    <string name="bl_clothes">9. Washing dark clothes in cold water saves water and energy, and helps your clothes retain their color.</string>
+    <string name="bl_washingmachine">10. Use the washing machine for full loads only to save water and energy.\n\nInstall a water-efficient clothes washer.Save: 16 Gallons/Load</string>
+
+    <string name="w_leak">1. Encourage employees to report leaks and problems with plumbing and irrigation equipment.</string>
+    <string name="w_urinal1">2. Replace old toilets and urinals with WaterSense(R) labeled models, or consider waterless urinals. Plan ahead and budget for replacement of plumbing fixtures.</string>
+    <string name="w_restroom">3. Keep restroom fixtures in good repair and fix leaks promptly.</string>
+    <string name="w_clock">4. Review your water bill monthly to check for unusually high use. Check water meters at night or on the weekend to detect leaks. There should be no flow when all water using fixtures have been turned off.</string>
+    <string name="w_calendar">5. Request a free landscape audit from your local water supplier.</string>
+    <string name="w_bill">6. Monitor your bill and water meter to determine unusually high use and possible leaks.</string>
+    <string name="w_curtain">7. ake five-minute showers instead of 10 minute showers.\n\nSave: 12.5 gallons with a low flow showerhead, 25 gallons with a standard 5.0 gallon per minute showerhead.\n\nTurn off the water while washing your hair.\n\nSave: Up to 150 gallons a month</string>
+
+    <string name="o_car">1. Wash cars/boats with a bucket, sponge, and hose with self-closing nozzle.\n\nSave: 8-18 gallons/minute.</string>
+    <string name="o_trees">2. Plant drought-resistant trees and plants.\n\nSave: 30- 60 gallons/each time you water/1,000 sq. ft</string>
+    <string name="o_sun">3. Water early in the morning or later in the evening when temperatures are cooler.\n\nSave: 25 gallons/each time you water</string>
+    <string name="o_sprinkler">4. Check your sprinkler system frequently and adjust sprinklers so only your lawn is watered and not the house, sidewalk, or street. Visit our Sprinklers 101 page.\n\nSave: 15-12 gallons/each time you water</string>
+    <string name="o_faucet">5. Invest in a water broom which attaches to your hose but uses a combination of air and water pressure to aid cleaning. Water brooms can use as little as 2.8 gallons per minute (gpm) to remove dirt, food spills, leaves, and litter from concrete and asphalt while a standard hose typically uses 5 to 20 gpm.</string>
+    <string name="o_driveway">Use a broom to clean driveways, sidewalks and patios.\n\nSave: 8-18 gallons /minute</string>
+</resources>

@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="16dp"
+    android:background="@android:color/white"
+    tools:context="com.example.android.savewater.kitchen_tips">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/img_house_plant"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/water_house_plant"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:text="@string/water_house_plant"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/img_fridge"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/sm_fridge"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:textColor="#000000"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fridge"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/img_freezer"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/sm_freezer"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/freezer"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/img_disposal"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/sm_disposal"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/disposal"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/img_sink"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/sm_sink"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sink"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/img_cooking"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/sm_cooking"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cooking"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/img_pots"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/sm_pots"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/cooking"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/img_oven"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/sm_oven"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/oven"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/img_dishes"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/sm_dishes"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dishes"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/img_fruits"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/sm_fruits"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/fruits"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:id="@+id/img_dishwasher"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/sm_dishwasher"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dishwasher"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+</ScrollView>

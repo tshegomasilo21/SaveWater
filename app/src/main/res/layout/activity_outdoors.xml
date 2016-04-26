@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:background="@android:color/white"
+    tools:context="com.example.android.savewater.outdoors">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/o_car"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/o_car"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/o_trees"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/o_trees"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/o_sun"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/o_sun"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/o_sprinkler"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/o_sprinkler"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/o_faucet"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/o_faucet"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#90CAF9"
+        android:layout_marginBottom="5dp">
+
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/o_driveway"
+            android:scaleType="centerCrop"/>
+        <TextView
+            style="@style/body_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/o_driveway"
+            android:textColor="#000000"
+            android:layout_gravity="center"
+            />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
+</ScrollView>

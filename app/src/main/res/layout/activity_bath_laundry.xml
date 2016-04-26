@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:background="@android:color/white"
+    tools:context="com.example.android.savewater.BathLaundry">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#90CAF9"
+            android:layout_marginBottom="5dp">
+
+            <ImageView
+                android:id="@+id/img_house_plant"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/bl_shaving"
+                android:scaleType="centerCrop"/>
+            <TextView
+                style="@style/body_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#000000"
+                android:text="@string/bl_shaving"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#90CAF9"
+            android:layout_marginBottom="5dp">
+
+            <ImageView
+                android:id="@+id/img_fridge"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/bl_toothbrush"
+                android:scaleType="centerCrop"/>
+            <TextView
+                style="@style/body_text"
+                android:textColor="#000000"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bl_toothbrush"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#90CAF9"
+            android:layout_marginBottom="5dp">
+
+            <ImageView
+                android:id="@+id/img_freezer"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/bl_washing"
+                android:scaleType="centerCrop"/>
+            <TextView
+                style="@style/body_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bl_washing_hands"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#90CAF9"
+            android:layout_marginBottom="5dp">
+
+            <ImageView
+                android:id="@+id/img_disposal"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/bl_urinal"
+                android:scaleType="centerCrop"/>
+            <TextView
+                style="@style/body_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bl_urinal"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#90CAF9"
+            android:layout_marginBottom="5dp">
+
+            <ImageView
+                android:id="@+id/img_sink"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/bl_trash"
+                android:scaleType="fitXY"/>
+            <TextView
+                style="@style/body_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bl_trash"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#90CAF9"
+            android:layout_marginBottom="5dp">
+
+            <ImageView
+                android:id="@+id/img_cooking"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/bl_shower"
+                android:scaleType="centerCrop"/>
+            <TextView
+                style="@style/body_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bl_shower"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#90CAF9"
+            android:layout_marginBottom="5dp">
+
+            <ImageView
+                android:id="@+id/img_pots"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/bl_curtain"
+                android:scaleType="centerCrop"/>
+            <TextView
+                style="@style/body_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bl_curtain"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#90CAF9"
+            android:layout_marginBottom="5dp">
+
+            <ImageView
+                android:id="@+id/img_oven"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/bl_tub"
+                android:scaleType="centerCrop"/>
+            <TextView
+                style="@style/body_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bl_tub"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#90CAF9"
+            android:layout_marginBottom="5dp">
+
+            <ImageView
+                android:id="@+id/img_dishes"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/bl_clothes"
+                android:scaleType="centerCrop"/>
+            <TextView
+                style="@style/body_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bl_clothes"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:background="#90CAF9"
+            android:layout_marginBottom="5dp">
+
+            <ImageView
+                android:id="@+id/img_fruits"
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:layout_marginRight="5dp"
+                android:src="@drawable/bl_washingmachine"
+                android:scaleType="centerCrop"/>
+            <TextView
+                style="@style/body_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/bl_washingmachine"
+                android:textColor="#000000"
+                android:layout_gravity="center"
+                />
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

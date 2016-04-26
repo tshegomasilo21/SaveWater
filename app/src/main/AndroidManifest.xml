@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.savewater">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".OtherUse"
+            android:label="Other Water Uses" />
+        <activity
+            android:name=".CriticalSaveWater"
+            android:label="Critical" />
+        <activity
+            android:name=".kitchen_tips"
+            android:label="Kitchen Tips" />
+        <activity
+            android:name=".BathLaundry"
+            android:label="Bath / Laundry" />
+        <activity
+            android:name=".work"
+            android:label="Work Tips" />
+        <activity
+            android:name=".outdoors"
+            android:label="Outdoors Tips"></activity>
+    </application>
+
+</manifest>
